@@ -11,7 +11,7 @@
 
 # 📗 Table of Contents
 
-- [� Table of Contents](#-table-of-contents)
+- [📗 Table of Contents](#-table-of-contents)
 - [📖 \[My Enumerable\] ](#-my-enumerable-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
@@ -94,19 +94,17 @@ To run the project, execute the following command:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **Martin Perez Bazan**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@mperezbazan](https://github.com/mperezbazan)
+- Twitter: [@mperezbazan](https://twitter.com/mperezbazan)
+- LinkedIn: [mperezbazan](https://linkedin.com/in/mperezbazan)
 
-👤 **Author2**
+👤 **Emmanuell Mhango**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@emmanuellmhango](https://github.com/emmanuellmhango)
+- LinkedIn: [@emmanuellmhango](https://linkedin.com/in/emmanuellmhango)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -114,7 +112,6 @@ To run the project, execute the following command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **[Add function to MAX and MIN]**
 
