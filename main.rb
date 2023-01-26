@@ -5,6 +5,9 @@ class MyList
     @list = item
   end
   include MyEnumerable
+  def each(&block)
+    @list.each(&block) if block_given?
+  end
 end
 
 # Create our list
